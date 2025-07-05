@@ -26,8 +26,12 @@ Hola! Soy ingeniera informática y desarrolladora web con más de 5 años de exp
 ## Github Stats:
 
 <!--- stats & Trophy (start) -->
-[![](https://github-readme-stats.vercel.app/api?username=MaryKattyVO&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/MaryKattyVO)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=MaryKattyVO&theme=material-palenight)](https://github.com/MaryKattyVO)
+<p align="center">
+<a href="https://github.com/naterivas12">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaryKattyVO&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaryKattyVO&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
