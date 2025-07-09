@@ -22,23 +22,3 @@ Hola! Soy ingeniera informática y desarrolladora web con más de 5 años de exp
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-
-## Github Stats:
-
-<!--- stats & Trophy (start) -->
-[![](https://github-readme-stats.vercel.app/api?username=MaryKattyVO&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/MaryKattyVO)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=MaryKattyVO&theme=material-palenight)](https://github.com/MaryKattyVO)
-</div>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=MaryKattyVO&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
