@@ -1,6 +1,6 @@
 ### Hola, Soy [Mary Vicuña](https://marykatty.github.io) 👋
 
-Hola! Soy ingeniera informática y desarrolladora web con más de 5 años de experiencia en el área. Me entusiasma mantenerme en constante aprendizaje y me apasiona crear soluciones digitales atractivas e intuitivas para web. Disfruto enfrentar retos que me permitan crecer profesionalmente y me esfuerzo por desarrollar productos modernos, flexibles y de excelente calidad. 
+Hola! Soy ingeniera informática y desarrolladora web con más de 5 años de experiencia. Me entusiasma mantenerme en constante aprendizaje y me apasiona crear soluciones digitales atractivas e intuitivas para web. Disfruto enfrentar retos que me permitan crecer profesionalmente y me esfuerzo por desarrollar productos modernos, flexibles y de excelente calidad. 
 
 ## Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
