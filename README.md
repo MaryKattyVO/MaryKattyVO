@@ -13,7 +13,7 @@ Actualmente continúo fortaleciendo mis conocimientos en Seguridad Informática 
 ## Tech Stack
 
 ### Frontend
-![Angular]
+![Angular] <img src="./icons/Angular-Dark.svg" width="48"> 
 ![Vue.js]
 ![TypeScript]
 ![RxJS]
