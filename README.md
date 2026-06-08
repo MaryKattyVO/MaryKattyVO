@@ -1,4 +1,4 @@
-### Hola, Soy [Mary Vicuña](https://marykatty.github.io) 👋
+### Hola, Soy [Mary Vicuña](https://marykattyvo.github.io/maryvicuna/) 👋
 
 Software Engineer | Front-End Developer | Angular & Vue.js
 
